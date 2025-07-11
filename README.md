@@ -27,6 +27,9 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![Material UI](https://img.shields.io/badge/-Material--UI-black?style=flat-square&logo=mui)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-black?style=flat-square&logo=vercel)
 
 ---
 
